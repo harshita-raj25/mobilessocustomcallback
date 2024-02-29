@@ -82,7 +82,7 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "mobilessocustomcallback",
+            "value": "idplogouttesting",
             "enabled": true,
             "android": {
                 "webLinks": [
@@ -122,7 +122,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.1.1",
-    "buildNumber": 1,
+    "appVersion": "2.2.2",
+    "buildNumber": 2,
     "runtimeUrl": "https://mobilessocustomcallback-sandbox.mxapps.io"
 }
